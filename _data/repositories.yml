@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - xj-xu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - xj-xu/mmo-analysis
+  - xj-xu/dft_nano_diode
