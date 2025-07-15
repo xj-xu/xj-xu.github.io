@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Lipid pattern formation
+description: traveling waves and stripes of phosphoinositides
+img: /assets/img/pip patterns/pi4p wave.png
 importance: 1
-category: work
+category: current
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Membrane identity in eukaryotic cells is defined by the phosphoinositide family of phospholipids, with phosphatidylinositol 4,5-bisphosphate [PI(4,5)P₂] serving as the key signaling lipid that resides on and defines the inner leaflet of the plasma membrane (PM). There, PI(4,5)P₂ plays indispensable roles such as intracellular transport and morphogenesis. Despite PI(4,5)P₂'s central role, how its precursor PI(4)P drives its dynamics remains unclear. In this paper, we found that PM PI(4)P, previously regarded as a static pool, can also exist as periodic oscillations. We then showed that the rate of PM PI(4)P synthesis is critical for maintaining PM PI(4,5)P₂ oscillations. The wave nature of phosphoinositides highlights the need to understand cellular membranes in a broader dynamical regime.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "XJ Xǔ",
+    // "label": "Scientist",
+    "image": "prof_pic.jpg",
+    "email": "xj.physics@gmail.com",
+    // "phone": "(912) 123-4567",
+    // "url": "https://alshedivat.github.io/al-folio/",
+    "current": "PhD candidate",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -18,46 +18,46 @@
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
+  // "work": [
+  //   {
+  //     "name": "Department of Physics, Yale University",
+  //     "position": "PhD Candidate",
+  //     "url": "https://example.com",
+  //     "startDate": "1933-01-01",
+  //     "endDate": "1955-01-01",
+  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+  //     "highlights": [
+  //       "Relativity"
+  //     ]
+  //   }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Department of Physics, Yale University, New Haven, Connecticut",
+      "url": "https://physics.yale.edu/people/xj-xu",
+      "area": "Non-equilibrium pattern formation in a living cell",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2019",
+      "endDate": "2025",
+      "score": ""
+      // "courses": [
+      //   "Theory of Relativity"
+      // ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
   "certificates": [],
   "publications": [],
   "skills": [],

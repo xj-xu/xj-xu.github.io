@@ -1,13 +1,23 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 7
-dropdown: false
+title: menu
+nav: true
+nav_order: 4
+dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: thoughts
+      permalink: /blog/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: colloquium
+      permalink: /colloquium/
+    - title: divider
+    - title: teaching
+      permalink: /teaching/
 ---
+<!-- 
+    - title: repo
+      permalink: /repositories/
+    - title: divider -->
+     <!-- - title: climbing
+      permalink: /publications/
+    - title: divider -->
