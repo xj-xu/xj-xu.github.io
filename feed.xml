@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://xj-xu.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://xj-xu.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-07-15T19:34:37-04:00</updated><id>https://xj-xu.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Website test</title><link href="https://xj-xu.github.io/blog/2025/website-test/" rel="alternate" type="text/html" title="Website test"/><published>2025-07-15T15:38:16-04:00</published><updated>2025-07-15T15:38:16-04:00</updated><id>https://xj-xu.github.io/blog/2025/website-test</id><content type="html" xml:base="https://xj-xu.github.io/blog/2025/website-test/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">swing</title><link href="https://xj-xu.github.io/blog/2025/swing/" rel="alternate" type="text/html" title="swing"/><published>2025-07-15T12:40:16-04:00</published><updated>2025-07-15T12:40:16-04:00</updated><id>https://xj-xu.github.io/blog/2025/swing</id><content type="html" xml:base="https://xj-xu.github.io/blog/2025/swing/"><![CDATA[<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What good is math,
+what good is computing,
+if it ain’t possessin’ something sweet?
+
+Nah, it ain’t the math, 
+and it ain’t the computing,
+there’s something else that makes this physics complete.
+
+Yes,
+it don’t mean a thing,
+if it ain’t got that swing.
+</code></pre></div></div>]]></content><author><name></name></author><category term="sample-posts"/><category term="verse"/><summary type="html"><![CDATA[test]]></summary></entry></feed>
